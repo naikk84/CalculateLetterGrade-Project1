@@ -23,7 +23,11 @@ namespace CalculateLetterGrade
             string lettergrade = ""; // String that holds lettergrade.
             
             /* condition that defines the conversion of number grade to letter grade*/
-           if (NumberGrade >= 88)
+           if (NumberGrade > 100)
+            {
+                MessageBox.Show("Enter number between 0 to 100");
+            }
+            else if (NumberGrade >= 88 && NumberGrade <= 100)
             {
                 lettergrade = "A";
             }
