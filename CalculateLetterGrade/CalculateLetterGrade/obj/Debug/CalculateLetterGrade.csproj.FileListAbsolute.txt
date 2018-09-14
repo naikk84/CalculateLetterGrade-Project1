@@ -1,0 +1,10 @@
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\naikk\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
